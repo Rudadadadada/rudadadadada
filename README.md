@@ -15,7 +15,9 @@
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Rudadadadada/rudadadadada/blob/master/icons/python.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer"> <img src="https://github.com/Rudadadadada/rudadadadada/blob/master/icons/C++.svg" alt="cplusplus" width="40" height="40"/> </a> 
-
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudadadadada&layout=compact)](https://github.com/rudadadadada/github-readme-stats)
+  
 ### Tools:
 <p align="left">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Rudadadadada/rudadadadada/blob/master/icons/flat_linux.svg" alt="linux" width="40" height="40"/> </a>
