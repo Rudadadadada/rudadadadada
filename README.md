@@ -17,7 +17,6 @@
 <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer"> <img src="https://github.com/Rudadadadada/rudadadadada/blob/master/icons/C++.svg" alt="cpp" width="40" height="40"/> </a>
 <a href="https://cmake.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Rudadadadada/rudadadadada/blob/master/icons/cmake.svg" alt="cmake" width="40" height="40"/> </a> 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudadadadada&layout=compact)](https://github.com/rudadadadada/github-readme-stats)
   
 ### Tools:
 <p align="left">
