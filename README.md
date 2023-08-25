@@ -9,19 +9,5 @@
 ### Connect with me:
 <p align="left">
 <a href="https://t.me/Rudadadadada" target="blank"><img align="center" src="https://github.com/Rudadadadada/rudadadadada/blob/master/icons/Telegram.svg" alt="rudadadadada" height="40" width="40" /></a>
-<a href="https://vk.com/mr_sadness" target="blank"><img align="center" src="https://github.com/Rudadadadada/rudadadadada/blob/master/icons/vk.svg" alt="rudadadadada" height="40" width="40" /></a>
-
-### Languages:
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Rudadadadada/rudadadadada/blob/master/icons/python.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer"> <img src="https://github.com/Rudadadadada/rudadadadada/blob/master/icons/C++.svg" alt="cpp" width="40" height="40"/> </a>
-<a href="https://cmake.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Rudadadadada/rudadadadada/blob/master/icons/cmake.svg" alt="cmake" width="40" height="40"/> </a> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudadadadada&layout=compact)](https://github.com/rudadadadada/github-readme-stats)
   
-### Tools:
-<p align="left">
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Rudadadadada/rudadadadada/blob/master/icons/flat_linux.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/Rudadadadada/rudadadadada/blob/master/icons/Bash.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://github.com/Rudadadadada/rudadadadada/blob/master/icons/PyCharm.svg" alt="PyCharm" width="40" height="40"/> </a>
-<a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer"> <img src="https://github.com/Rudadadadada/rudadadadada/blob/master/icons/clion.svg" alt="clion" width="40" height="40"/> </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudadadadada&layout=compact)](https://github.com/rudadadadada/github-readme-stats)
